@@ -2,6 +2,8 @@
 
 To reproduce the problem talking in the https://github.com/spring-projects/spring-framework/issues/31141
 
+Note: the issue has been fixed
+
 # How this demo created
 
 With [Spring Initializr](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=3.1.3&packaging=jar&jvmVersion=17&groupId=com.example&artifactId=r2dbc-native-image-domain-socket-issue-reproduce&name=r2dbc-native-image-domain-socket-issue-reproduce&description=r2dbc%20native%20image%20with%20domain%20socket&packageName=com.example.r2dbc-native-image-domain-socket-issue-reproduce&dependencies=native,webflux,data-r2dbc,postgresql)
